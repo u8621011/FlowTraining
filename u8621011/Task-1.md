@@ -50,3 +50,5 @@ Reference:
 [Reference To Where It Come Out]: https://github.com/DatacomRD/FlowTraining/issues/50
 [Reference To Cheatsheet]: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
+
+score : 5 / 100
